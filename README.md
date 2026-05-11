@@ -26,7 +26,8 @@ I'm **Reyaz**, solo founder and product architect of **FlyTradr** — building a
 - [Website](https://www.flytradr.com)
 - [YouTube](https://www.youtube.com/@FlyTradr)
 - [LinkedIn](https://www.linkedin.com/in/reyaz-k-4a524ba8)
-- [X](https://x.com/flytradr_guy)  
+- [X](https://x.com/flytradr_guy)
+- [Instagram](https://www.instagram.com/_reyaz.k)
 - [Email](founder@flytradr.com)  
 
 ### ⚡ Fun fact
