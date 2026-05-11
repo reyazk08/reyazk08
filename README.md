@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**reyazk08/reyazk08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Reyaz**, solo founder and product architect of **FlyTradr** — building a SaaS/fintech platform to help traders *trade smarter, not harder*.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+- FlyTradr infrastructure and broker compliance
+- Playful yet professional fintech UX
+- Deep learning coursework (TensorFlow/Keras, CNNs, transfer learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Advanced deep learning techniques
+- Scaling infrastructure for SaaS platforms
+- Legal asset protection for startups
+
+### 👯 Looking to collaborate on
+- Open source trading tools
+- Fintech UX experiments
+- AI + finance projects
+
+### 💬 Ask me about
+- Building trading platforms from scratch
+- Lean infrastructure management
+- Legal diligence in SaaS/fintech
+
+### 📫 How to reach me
+- [Website](https://www.flytradr.com)
+- [YouTube](https://www.youtube.com/@FlyTradr)
+- [LinkedIn](https://www.linkedin.com/in/reyaz-k-4a524ba8)
+- [X](https://x.com/flytradr_guy)  
+- [Email](founder@flytradr.com)  
+
+### ⚡ Fun fact
+I love mixing **playful UX** with serious fintech systems — because even compliance can have personality.
