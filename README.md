@@ -2,7 +2,8 @@
 
 I'm **Reyaz**, solo founder and product architect of **FlyTradr** — building a SaaS/fintech platform to help traders *trade smarter, not harder*.
 
-### 🔭 Currently working on
+### 🔭 Currently working on 
+
 - FlyTradr infrastructure and broker compliance
 - Playful yet professional fintech UX
 - Deep learning coursework (TensorFlow/Keras, CNNs, transfer learning)
@@ -32,3 +33,6 @@ I'm **Reyaz**, solo founder and product architect of **FlyTradr** — building a
 
 ### ⚡ Fun fact
 I love mixing **playful UX** with serious fintech systems — because even compliance can have personality.
+
+### Important Note
+*Most of my current work is on FlyTradr, a private algorithmic trading platform. Some repositories are not public because they include proprietary trading logic, platform architecture, automation workflows, and business critical implementation details.*
